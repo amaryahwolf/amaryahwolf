@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! 
+- 📚 I'm currently a student at UCLA's Full-Stack Flex Coding Bootcamp
+- ⚙️ I'm working on an application with [Sam Wade](https://github.com/sgwade) called 'Scroll Stopper'
+- 💌 Connect with me on [LinkedIn](www.linkedin.com/in/amaryah-wolf) or email me at amaryahwolf@gmail.com
 
 <!--
 **amaryahwolf/amaryahwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
