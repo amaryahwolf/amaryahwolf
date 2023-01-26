@@ -1,6 +1,6 @@
 ### Hello! 
 - 📚 I'm currently a student at UCLA's Full-Stack Flex Coding Bootcamp
-- ⚙️ I'm working on an application, [Scroll Stopper](https://github.com/amaryahwolf), with [Sam Wade](https://github.com/sgwade)
+- ⚙️ I'm working on an application, [Scroll Stopper](https://github.com/amaryahwolf/scroll-stopper), with [Sam Wade](https://github.com/sgwade)
 - 💌 Connect with me on [LinkedIn](www.linkedin.com/in/amaryah-wolf) or email me at amaryahwolf@gmail.com
 
 <!--
