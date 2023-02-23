@@ -1,6 +1,7 @@
 ### Hello! 
-- 📚 I'm a recent graduate from UCLA's Full-Stack Flex Coding Bootcamp with a certificate in Full Stack Web Development
-- ⚙️ I'm working on an application, [Scroll Stopper](https://github.com/amaryahwolf/scroll-stopper), with [Sam Wade](https://github.com/sgwade)
+- 📚 I'm a recent graduate from UCLA's Full-Stack Flex Coding Bootcamp with a certificate in Full Stack Web Development. With that foundation, I'm diving into Python, AWS, Java and C##!
+- ⚙️ I'm working on a MERN stack application, [Scroll Stopper](https://github.com/amaryahwolf/scroll-stopper), with [Sam Wade](https://github.com/sgwade) to prompt users to participate in mindful activities besides doom-scrolling.
+- 💬 I'm inspired by reading, writing, films, and game play!
 - 💌 Connect with me on [LinkedIn](www.linkedin.com/in/amaryah-wolf) or email me at amaryahwolf@gmail.com
 
 <!--
